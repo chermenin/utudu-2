@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "Easy to use todo lists",
+    "framework": "ubuntu-sdk-15.04.4-qml",
+    "hooks": {
+        "utudu": {
+            "apparmor": "utudu.json",
+            "desktop": "utudu.desktop"
+        }
+    },
+    "maintainer": "Alex Chermenin <alex@chermenin.ru>",
+    "name": "utudu-2.imtec",
+    "title": "Ütudu 2",
+    "version": "0.4.3"
+}

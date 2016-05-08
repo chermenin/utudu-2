@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ütudu 2
+Comment=Easy to use todo lists
+Exec=qmlscene $@ utudu.qml
+Icon=utudu.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
