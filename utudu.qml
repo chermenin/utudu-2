@@ -5,7 +5,7 @@ import "components"
 import "components/util.js" as Util
 
 MainView {
-    property string version: "0.4.3"
+    property string version: "0.4.4"
 
     // objectName for functional testing purposes (autopilot-qt5)
     objectName: "mainView"

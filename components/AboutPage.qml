@@ -97,7 +97,7 @@ Page {
                 anchors.horizontalCenter: parent.horizontalCenter
                 Label {
                     font.bold: true
-                    text: "<a href=\"https://launchpad.net/utudu\">https://launchpad.net/utudu2</a>"
+                    text: "<a href=\"https://github.com/chermenin/utudu-2\">github.com/chermenin/utudu-2</a>"
                     onLinkActivated: Qt.openUrlExternally(link)
                 }
             }
