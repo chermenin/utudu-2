@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-02 18:51+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: components/AboutPage.qml:10 components/EntriesPage.qml:156
+msgid "About"
+msgstr ""
+
+#: components/AboutPage.qml:29
+msgid "Ütudu 2"
+msgstr ""
+
+#: components/AboutPage.qml:61
+msgid "Version: "
+msgstr ""
+
+#: components/AboutPage.qml:68
+msgid "Based on: "
+msgstr ""
+
+#: components/AboutPage.qml:75
+msgid "Powered by: "
+msgstr ""
+
+#: components/AboutPage.qml:82
+msgid "Icon: "
+msgstr ""
+
+#: components/AboutPage.qml:89
+msgid "Licenses: "
+msgstr ""
+
+#: components/ItemsPage.qml:38
+msgid "Uncheck all"
+msgstr ""
+
+#: components/ItemsPage.qml:56
+msgid "Delete checked"
+msgstr ""
+
+#: components/ItemsPage.qml:82
+msgid "Delete checked items"
+msgstr ""
+
+#: components/ItemsPage.qml:83
+msgid "Are you sure you want to delete all checked items?"
+msgstr ""
+
+#: components/ItemsPage.qml:85 components/EntriesPage.qml:94
+#: components/DeleteDialog.qml:22
+msgid "Cancel"
+msgstr ""
+
+#: components/ItemsPage.qml:92 components/DeleteDialog.qml:29
+msgid "Delete"
+msgstr ""
+
+#: components/ItemsPage.qml:135
+msgid "Add item..."
+msgstr ""
+
+#: components/EntriesPage.qml:79
+msgid "New "
+msgstr ""
+
+#: components/EntriesPage.qml:80
+msgid "Enter title text to create new entry"
+msgstr ""
+
+#: components/EntriesPage.qml:102
+msgid "Create"
+msgstr ""
+
+#: components/EntriesPage.qml:123
+msgid "Today"
+msgstr ""
+
+#: components/EntriesPage.qml:132
+msgid "Week"
+msgstr ""
+
+#: components/EntriesPage.qml:141
+msgid "Other"
+msgstr ""
+
+#: components/EntriesPage.qml:163
+msgid "New list"
+msgstr ""
+
+#: components/EntriesPage.qml:171
+msgid "New note"
+msgstr ""
+
+#: components/Storage.qml:27
+msgid "Uncategorized"
+msgstr ""
+
+#: components/Storage.qml:113
+msgid "Greetings from Utudu!"
+msgstr ""
+
+#: components/Storage.qml:120
+msgid "Groceries"
+msgstr ""
+
+#: components/Storage.qml:128
+msgid "milk"
+msgstr ""
+
+#: components/Storage.qml:133
+msgid "eggs"
+msgstr ""
+
+#: components/Storage.qml:140
+msgid "Travel"
+msgstr ""
+
+#: components/Storage.qml:148
+msgid "toothbrush"
+msgstr ""
+
+#: components/Storage.qml:153
+msgid "toothpaste"
+msgstr ""
+
+#: components/Storage.qml:158
+msgid "hairbrush"
+msgstr ""
+
+#: components/Storage.qml:117
+msgid ""
+"Hello!\n"
+"\n"
+"Utudu is a simple checklist and note\n"
+"taking program that is designed to be easy\n"
+"to use. It supports categories and two\n"
+"types of entries: checklists and notes.\n"
+"\n"
+"Side swipe an entry to delete and long\n"
+"press to edit.\n"
+"\n"
+"You too can todo with Utudu!\n"
+")"
+msgstr ""
+
+#: components/DeleteDialog.qml:17
+msgid "Delete entry"
+msgstr ""
+
+#: components/DeleteDialog.qml:18
+msgid "Delete the following entry?\n"
+msgstr ""
+
+#: components/NotePage.qml:82
+msgid "Add note text..."
+msgstr ""

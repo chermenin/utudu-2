@@ -110,14 +110,14 @@ Item {
         "next_category_index": "3",
         "entries": {
             "0": {
-                "name": "Greetings from Utudu!",
+                "name": i18n.tr("Greetings from Utudu!"),
                 "type": "note",
                 "modified": "1390759927000",
                 "category": "2",
-                "text": "Hello!\n\nUtudu is a simple checklist and note\ntaking program that is designed to be easy\nto use. It supports categories and two\ntypes of entries: checklists and notes.\n\nSide swipe an entry to delete and long\npress to edit.\n\nYou too can todo with Utudu!\n"
+                "text": i18n.tr("Hello!\n\nUtudu is a simple checklist and note\ntaking program that is designed to be easy\nto use. It supports categories and two\ntypes of entries: checklists and notes.\n\nSide swipe an entry to delete and long\npress to edit.\n\nYou too can todo with Utudu!\n)"
             },
             "1": {
-                "name": "Groceries",
+                "name": i18n.tr("Groceries"),
                 "show_checked": "0",
                 "type": "list",
                 "modified": "1390760047000",
@@ -125,19 +125,19 @@ Item {
                 "next_item_index": "2",
                 "items": {
                     "0": {
-                        "name": "milk",
+                        "name": i18n.tr("milk"),
                         "checked": "1",
-                        "note": "always get 2%"
+                        "note": ""
                     },
                     "1": {
-                        "name": "eggs",
+                        "name": i18n.tr("eggs"),
                         "checked": "0",
                         "note": ""
                     }
                 }
             },
             "2": {
-                "name": "Travel",
+                "name": i18n.tr("Travel"),
                 "show_checked": "0",
                 "type": "list",
                 "modified": "1390759987000",
@@ -145,17 +145,17 @@ Item {
                 "next_item_index": "3",
                 "items": {
                     "0": {
-                        "name": "toothbrush",
+                        "name": i18n.tr("toothbrush"),
                         "checked": "0",
                         "note": ""
                     },
                     "1": {
-                        "name": "toothpaste",
+                        "name": i18n.tr("toothpaste"),
                         "checked": "0",
                         "note": ""
                     },
                     "2": {
-                        "name": "hairbrush",
+                        "name": i18n.tr("hairbrush"),
                         "checked": "0",
                         "note": ""
                     }
